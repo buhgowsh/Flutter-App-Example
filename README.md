@@ -4,6 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
+https://youtu.be/D4nhaszNW4o?si=Zz5mDfP38CHeeI6w&t=610
+
+resume using this link, after cloning the repository and setting up all the necessary tools for Flutter
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
